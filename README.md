@@ -5,12 +5,12 @@
 - Свічки
 
 ## Енергія
-- Powerbank (Xiaomi Redmi 18W Fast Charger 20000 mAh)
+- Powerbank 20000 mAh або більше (Xiaomi Redmi 18W Fast Charger 20000 mAh)
 - Батарея (ECOFLOW River Max 576Wh, ECOFLOW River Pro 720Wh, BLUETTI EB55)
-- Генератори з AVR (Könner & Söhnen KSB 12i S)
+- Генератори з AVR (Könner & Söhnen KSB 12i S, виробника KRAFT&DELE краще уникати)
 
 ## Тепло
-- Система приготування їжі плюс газові балони (Campingaz Camp Bistro 3, Jetboil Flash)
+- Система приготування їжі (Campingaz Camp Bistro 3, Jetboil Flash) плюс газові балони (краще брати в Україні одразу)
 - Термос (Stanley Legendary Classic, Tramp Travel Line)
 - Ковдра електрична (Noveen EB650)
 - Керамічний обігрівач (Transa Electronics Ceramio 1500 W)
