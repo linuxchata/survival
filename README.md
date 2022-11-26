@@ -6,7 +6,7 @@
 
 ## Енергія
 - Powerbank 20000 mAh або більше (Xiaomi Redmi 18W Fast Charger 20000 mAh)
-- Батарея (ECOFLOW River Max 576Wh, ECOFLOW River Pro 720Wh, BLUETTI EB55)
+- Батарея (ECOFLOW River Max 576Wh, ECOFLOW River Pro 720Wh, Bluetti EB55, Bluetti EB70)
 - Генератори однофазний з AVR (Könner & Söhnen KSB 12i S, виробника KRAFT&DELE краще уникати)
 
 ## Тепло
