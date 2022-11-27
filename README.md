@@ -1,5 +1,6 @@
 ## Світло
 - Лампа (Varta L30 Pro, TaoTronics TT-DL23)
+- Лампа зовнішня (Solar Spotlight Outdoor Solar Lamps)
 - Фонарик (Varta 18711 F20)
 - Батарейки АА
 - Свічки
