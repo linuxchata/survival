@@ -1,15 +1,18 @@
 ## Світло
 - Лампа (Varta L30 Pro, TaoTronics TT-DL23)
 - Лампа зовнішня (Solar Spotlight Outdoor Solar Lamps)
-- Ручний ліхтар (Varta 18711 F20)
-- Ліхтар налобний
-- Батарейки АА
+- Ручний ліхтар (Varta F20 Pro)
+- Ліхтар налобний (Varta Sports H10 Pro)
+- Батарейки АА і ААА
 - Свічки
 
 ## Енергія
 - Powerbank 20000 mAh або більше (Xiaomi Redmi 18W Fast Charger 20000 mAh)
-- Батарея (ECOFLOW River Max 576Wh, ECOFLOW River Pro 720Wh, Bluetti EB55, Bluetti EB70)
 - Генератори однофазний з AVR (Könner & Söhnen KSB 12i S, виробника KRAFT&DELE краще уникати)
+- Батарея (ECOFLOW River Max 576Wh, ECOFLOW River Pro 720Wh, Bluetti EB55, Bluetti EB70)
+- Кастомні батареї
+  - **UPS** під зовнішню батарею (Volt Polska Sinus Pro 800 E 12/230V (500/800W))
+  - Інвертор (Novopal Power Inverter Pure Sine Wave)
 
 ## Тепло
 - Система приготування їжі (Campingaz Camp Bistro 3, Jetboil Flash) плюс газові балони (краще брати в Україні одразу)
