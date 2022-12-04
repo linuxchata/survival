@@ -14,10 +14,13 @@
   - **UPS** під зовнішню батарею (Volt Polska Sinus Pro 800 E 12/230V (500/800W))
   - Інвертор (Novopal Power Inverter Pure Sine Wave)
 
-## Тепло
+## Приготування та зберігання їжі
 - Система приготування їжі (Campingaz Camp Bistro 3, Jetboil Flash) плюс газові балони (краще брати в Україні одразу)
 - Термос (Stanley Legendary Classic, Tramp Travel Line)
-- Термо для іжі (Esbit Sculptor Food Jug)
+- Термос для іжі (Esbit Sculptor Food Jug)
+
+## Тепло
+- Спальний мішок
 - Ковдра електрична (Noveen EB650)
 - Керамічний обігрівач (Transa Electronics Ceramio 1500 W)
 - Сухий спирт
