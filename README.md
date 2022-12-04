@@ -17,6 +17,7 @@
 ## Тепло
 - Система приготування їжі (Campingaz Camp Bistro 3, Jetboil Flash) плюс газові балони (краще брати в Україні одразу)
 - Термос (Stanley Legendary Classic, Tramp Travel Line)
+- Термо для іжі (Esbit Sculptor Food Jug)
 - Ковдра електрична (Noveen EB650)
 - Керамічний обігрівач (Transa Electronics Ceramio 1500 W)
 - Сухий спирт
